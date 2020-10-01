@@ -1,0 +1,19 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -1455,7 +1455,16 @@
+                   </div>
+               </div>
+           </div> 
+-
++          <div class="col-lg-4 mb-4">
++            <div class="card">
++                <img class="card-img-top" src="https://cdn.themis-media.com/media/global/images/library/deriv/609/609869.jpg" alt="Pikachu">
++                <div class="card-body">
++                    <h5 class="card-title">Pikachu</h5>
++                    <p class="card-text">Pikachu is an electric-type mouse Pokémon, and is the primary character officiated with the franchise, making it the most recognizable Pokémon.</p>
++                    <a href="https://github.com/febriandev" class="btn btn-outline-danger btn-sm">Contributed by - FebrianDev</a>
++                </div>
++            </div>
++        </div> 
+    </div>
+    </section>
+ 
